@@ -18,6 +18,7 @@ public class _2798 {
 		for(int i=0; i<numSize; i++) {
 			numCard[i] = sc.nextInt();
 		}
+		sc.close();
 		/* end of 입력부 */
 		
 		/* */
@@ -37,10 +38,7 @@ public class _2798 {
 				}
 			}
 		}
-		
 		System.out.println(target-gab);
-		
-		
 		//long endTime = System.currentTimeMillis(); // 코드 실행 전에 시간 받아오기
 		//System.out.println(endTime - startTime + "ms");
 	}
