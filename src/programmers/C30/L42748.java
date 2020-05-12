@@ -2,10 +2,10 @@ package programmers.C30;
 
 import java.util.Arrays;
 
-public class C30L42748 {
+public class L42748 {
 
 	public static void main(String[] args) {
-		C30L42748 quiz = new C30L42748();
+		L42748 quiz = new L42748();
 		
 		int[] array = {1, 5, 2, 6, 3, 7, 4};
 		int[][] commands = {{2, 5, 3}, {4, 4, 1}, {1, 7, 3}};

@@ -2,10 +2,10 @@ package programmers.C30;
 
 import java.util.Arrays;
 
-public class C30L42576 {
+public class L42576 {
 
 	public static void main(String[] args) {
-		C30L42576 quiz = new C30L42576();
+		L42576 quiz = new L42576();
 		
 		String[] participant =
 			{"mislav", "stanko", "mislav", "ana"};
